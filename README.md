@@ -1,6 +1,4 @@
-# Realm-Packs
-Custom scripts made for your realms, there addons are pretty easy to use and don't require anything else!
+Welcome to the GitHub repository for my free-to-use Minecraft Realm scripts. These scripts are designed to enhance your Minecraft Realms experience and bring new features and functionalities to your gameplay.
 
-All Rights Reserved 2024 ©  
-
-Please do not take credit for any of my work. Do not change the manifest files, just leave them as they are now or you might run into issues. If you want to upload these packs to any social media platforms please put the link to my github or this page in your description and not claim that these are yours without my permission. :)
+## Overview
+This repository contains a collection of scripts that I've developed. These scripts are designed to be used with Minecraft Realms, and they add various features to enhance your gaming experience. Feel free to explore and use these scripts to customize your Minecraft Realm.
